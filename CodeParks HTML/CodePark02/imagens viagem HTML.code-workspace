@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "imagens viagem HTML",
+			"path": "../../../../Desktop/Introdução a programação PROZ/HTML/imagens viagem HTML"
+		},
+		{
+			"name": "CodePark02",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CodePark02"
+	}
+}
