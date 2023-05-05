@@ -1,0 +1,23 @@
+head, header  {
+    background-color: gray;
+    
+    
+}
+
+footer {
+    background-color: gray;
+}
+
+html {
+    background-color: ivory;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+.imagem, img {
+    border: 3px solid black;
+
+}
